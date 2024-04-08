@@ -1,1 +1,1 @@
-
+In this project performed sentiment analysis on college review dataset and then based on that with the help of LDA model perform topic modelling. Further created summary on unique colleges and save in new excel file.
