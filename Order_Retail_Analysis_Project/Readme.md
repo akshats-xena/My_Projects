@@ -1,1 +1,1 @@
-
+In this project performed uni,bi & multi-variate analysis to get a hold on Order Retail data. Also performed pre-processing steps to clean and remove  any outliers using IQR and created visualization based on clean dataset for business used case understanding.
